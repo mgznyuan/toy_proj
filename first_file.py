@@ -11,5 +11,6 @@ Class Pet():
 name= input("Name: \n")
 age= input ("Age: \n")
 sound =input("Sound: \n")
+a = Pet (name)
 print(a.__str__())
   
